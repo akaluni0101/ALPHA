@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sound-Based Machine Health Monitor
 
 A prototype acoustic condition monitoring system combining audio signal processing and machine learning to classify machine operating sounds as **Normal**, **Abnormal**, or **Uncertain**.
@@ -95,3 +96,6 @@ sound_machine_health_monitor/
 | `GET` | `/api/samples` | Lists available preloaded demonstration audio clips |
 | `GET` | `/api/samples/{name}` | Downloads or streams a specific demo audio clip |
 | `GET` | `/` | Serves the interactive health monitor dashboard |
+=======
+# GearSense
+>>>>>>> e0eaa08a736ac97d3f8d7dbd49236290cd048a60
